@@ -5,7 +5,7 @@ Built-By: mx
 Tool: Bnd-0.0.238
 Bundle-Name: mxImage
 Created-By: Apache Maven Bundle Plugin
-Bundle-Version: 0.0.1.SNAPSHOT
+Bundle-Version: 0.0.1
 Build-Jdk: 1.6.0_20
 Bnd-LastModified: 1275431844646
 Bundle-ManifestVersion: 2
