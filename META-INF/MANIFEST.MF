@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Private-Package: com.jhlabs.composite,com.jhlabs.image,com.jhlabs.math
+ ,com.jhlabs.vecmath,target.dependency
+Built-By: mx
+Tool: Bnd-0.0.238
+Bundle-Name: mxImage
+Created-By: Apache Maven Bundle Plugin
+Bundle-Version: 0.0.1.SNAPSHOT
+Build-Jdk: 1.6.0_20
+Bnd-LastModified: 1275431844646
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: de.mxro.image.mxImage
+Bundle-ClassPath: .,
+ src/main/resources/filters-2.0.235.jar
+Import-Package: de.mxro.utils
+Export-Package: de.mxro.image
+
