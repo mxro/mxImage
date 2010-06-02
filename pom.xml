@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.mxro.image</groupId>
   <artifactId>mxImage</artifactId>
+  <name>mxImage</name>
   <version>0.0.2-SNAPSHOT</version>
   <build>
     <plugins>
