@@ -9,9 +9,9 @@ Bundle-Version: 0.0.2.SNAPSHOT
 Build-Jdk: 1.6.0_20
 Bnd-LastModified: 1275431844646
 Bundle-ManifestVersion: 2
-Bundle-SymbolicName: de.mxro.image
-Bundle-ClassPath: .,
- src/main/resources/filters-2.0.235.jar
+Bundle-SymbolicName: mxImage;singleton:=true
 Import-Package: de.mxro.utils
 Export-Package: de.mxro.image
-
+Bundle-ClassPath: .,
+ filters-2.0.235.jar,
+ mxUtilities-0.0.2-SNAPSHOT.jar

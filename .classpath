@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry  kind="src" output="target/test-classes" path="src/test/java"/>
-	<classpathentry  kind="src" path="src/main/java"/>
-	<classpathentry exported="true" kind="lib" path="src/main/resources/filters-2.0.235.jar"/>
-	<classpathentry kind="con" path="org.eclipse.iam.jdt.core.mavenClasspathContainer"/>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" including="**" kind="src" path="src/main/resources"/>
+	<classpathentry exported="true" kind="lib" path="mxUtilities-0.0.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="filters-2.0.235.jar" sourcepath="/Users/mx/.m2/repository/com/jhlabs/filters/2.0.235/filters-2.0.235-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
