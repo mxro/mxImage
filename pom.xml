@@ -63,7 +63,7 @@
 						</Embed-Dependency>
 						<Embed-Directory>target/dependency</Embed-Directory>
 						<Import-Package>de.mxro.utils,*</Import-Package>
-						<Export-Package>de.mxro.image,!*</Export-Package>
+						<Export-Package>de.mxro.image</Export-Package>
 					</instructions>
 				</configuration>
 			</plugin>

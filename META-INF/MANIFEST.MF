@@ -8,7 +8,7 @@ Bundle-Name: mxImage
 Created-By: Apache Maven Bundle Plugin
 Build-Jdk: 1.6.0_20
 Bundle-Version: 0.0.2.SNAPSHOT
-Bnd-LastModified: 1277784912227
+Bnd-LastModified: 1277958656417
 Bundle-ManifestVersion: 2
 Import-Package: de.mxro.image,de.mxro.utils,javax.swing
 Embed-Dependency: filters;scope=compile|runtime;inline=false
