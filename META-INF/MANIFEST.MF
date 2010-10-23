@@ -2,13 +2,13 @@ Manifest-Version: 1.0
 Export-Package: de.mxro.image;uses:="javax.swing,de.mxro.utils"
 Embed-Directory: target/dependency
 Bundle-ClassPath: .,target/dependency/filters-2.0.235.jar
-Built-By: mx
+Built-By: Max
 Tool: Bnd-0.0.357
 Bundle-Name: mxImage
 Created-By: Apache Maven Bundle Plugin
-Build-Jdk: 1.6.0_20
+Build-Jdk: 1.6.0_22
 Bundle-Version: 0.0.2.SNAPSHOT
-Bnd-LastModified: 1282362366829
+Bnd-LastModified: 1287778335611
 Bundle-ManifestVersion: 2
 Import-Package: de.mxro.image,de.mxro.utils,javax.swing
 Embed-Dependency: filters;scope=compile|runtime;inline=false
