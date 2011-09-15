@@ -29,7 +29,7 @@
 		<link>
 			<name>filters-2.0.235.jar</name>
 			<type>1</type>
-			<location>C:/Users/Max/.m2/repository/com/jhlabs/filters/2.0.235/filters-2.0.235.jar</location>
+			<location>M:/LocalMavenRepository/repository/com/jhlabs/filters/2.0.235/filters-2.0.235.jar</location>
 		</link>
 	</linkedResources>
 </projectDescription>
