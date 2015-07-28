@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1438065649062
+Bnd-LastModified: 1438065708438
 Build-Jdk: 1.7.0_85
 Built-By: adminuser
 Bundle-ClassPath: .,target/dependency/filters-2.0.235.jar
